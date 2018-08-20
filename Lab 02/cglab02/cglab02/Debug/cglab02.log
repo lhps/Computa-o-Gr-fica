@@ -1,0 +1,6 @@
+﻿  cglab02.cpp
+h:\fei\6 ciclo\cg\computacao-grafica\lab 02\cglab02\cglab02\cglab02.cpp(227): warning C4101: 'M': variável local não referenciada
+h:\fei\6 ciclo\cg\computacao-grafica\lab 02\cglab02\cglab02\cglab02.cpp(226): warning C4101: 'T': variável local não referenciada
+h:\fei\6 ciclo\cg\computacao-grafica\lab 02\cglab02\cglab02\cglab02.cpp(298): warning C4101: 'Y': variável local não referenciada
+h:\fei\6 ciclo\cg\computacao-grafica\lab 02\cglab02\cglab02\cglab02.cpp(297): warning C4101: 'X': variável local não referenciada
+  cglab02.vcxproj -> H:\FEI\6 Ciclo\CG\Computacao-Grafica\Lab 02\cglab02\Debug\cglab02.exe
